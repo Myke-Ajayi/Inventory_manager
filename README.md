@@ -1,6 +1,6 @@
 # Inventory_manager
 
-###  This is a smaple solution for a local shelter to manage their donation inventory.
+###  This is a sample solution for a local shelter to manage their donation inventory.
 
 ### To run the code:
 * Clone this file .
